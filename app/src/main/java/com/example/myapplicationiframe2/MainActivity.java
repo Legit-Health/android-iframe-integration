@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         });
-        webView.loadUrl("https://iframe-pre.legit.health/?company=4YDBtcXb1CuAT1t2gnktWYLSGBTHhZFP1BKs23hK7q9EPxxKC5T8U8HMSfudU2Yw&enableCamera=1");
+        webView.loadUrl("https://iframe-pre.legit.health/?company=XXX&enableCameraForAndroid=1");
     }
 
     @Override
